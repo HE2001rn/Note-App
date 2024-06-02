@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Note App</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up1">Sign Up</string>
+    <string name="title_of_your_note">Title of your note</string>
+    <string name="description">Description</string>
+</resources>
